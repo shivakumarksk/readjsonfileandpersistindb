@@ -1,0 +1,63 @@
+[
+	{
+		"name": "Andaman and Nicobar Islands",
+		"pincodeRegex": "^744[0-9]{3}$",
+		"city": [
+			{
+				"name": "Nicobar"
+			},
+			{
+				"name": "North And Middle Andaman"
+			},
+			{
+				"name": "South Andaman"
+			}
+		]
+	},
+	{
+		"name": "Andaman and Nicobar Islands",
+		"pincodeRegex": "^744[0-9]{3}$",
+		"city": [
+			{
+				"name": "Nicobar"
+			},
+			{
+				"name": "North And Middle Andaman"
+			},
+			{
+				"name": "South Andaman"
+			}
+		]
+	},
+	{
+		"name": "Andhra pradesh",
+		"pincodeRegex": "123456ABC",
+		"city": [
+			{
+				"name": "Vizag"
+			},
+			{
+				"name": "Amaravati"
+			},
+			{
+				"name": "Vijayawada"
+			}
+		]
+	},
+	{
+		"name": "Andhra pradesh",
+		"pincodeRegex": "123456ABC",
+		"city": [
+			{
+				"name": "Vizag"
+			},
+			{
+				"name": "Amaravati"
+			},
+			{
+				"name": "Vijayawada"
+			}
+		]
+	}
+	
+]
